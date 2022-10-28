@@ -6,7 +6,7 @@ Edge detection is an image-processing technique, which is used to identify the b
 
 Edges are characterized by sudden changes in pixel intensity. To detect edges, we need to go looking for such changes in the neighboring pixels.
 
-## Step to be follow-
+## Steps to be follow-
 
 - install OpenCV `pip install opencv-python`
 - install numpy  `pip install numpy`
